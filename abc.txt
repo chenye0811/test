@@ -1,0 +1,4 @@
+aaaaaaa
+bbbbbbb test conflict by hot_fix
+bbbbbbb test conflict by master
+ccccccc
